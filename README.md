@@ -1,40 +1,40 @@
-###Prediction with Multiple Linear Regression
-#Overview
+**Prediction with Multiple Linear Regression
+****Overview**
 This repository contains two comprehensive projects that demonstrate the application of multiple linear regression for predictive modeling. The projects focus on predicting profit and car prices based on various features and attributes, using datasets from different domains.
 
-#Projects Included
-50_Startups Profit Prediction
+**Projects Included
+**50_Startups Profit Prediction
 Toyota Corolla Price Prediction
-##Project 1: 50_Startups Profit Prediction
-#Objective
+**Project 1: 50_Startups Profit Prediction
+****Objective**
 The primary goal of this project is to build a multiple linear regression model to predict the profit of a startup based on key business expenditures such as R&D Spend, Administration, Marketing Spend, and State.
 
-#Solution
-#Exploratory Data Analysis (EDA): Conducted in-depth analysis to understand the relationships between variables and identify key predictors.
-#Modelling: Developed a multiple linear regression model using the features identified in the EDA.
-#Evaluation: The model’s performance was evaluated using the R² score, ensuring its reliability in predicting profits.
-#Business Impact
+#**Solution**
+**#Exploratory Data Analysis (EDA): Conducted in-depth analysis to understand the relationships between variables and identify key predictors.
+****#Modelling: Developed a multiple linear regression model using the features identified in the EDA.
+****#Evaluation: The model’s performance was evaluated using the R² score, ensuring its reliability in predicting profits.
+**#**Business** **Impact**
 This model aids startups in making data-driven decisions regarding budget allocation across different departments, ultimately helping to maximize profits.
 
-##Project 2: Toyota Corolla Price Prediction
-#Objective
+**##Project 2: Toyota Corolla Price Prediction
+**#**Objective**
 This project aims to predict the selling price of a Toyota Corolla based on various features such as age, mileage, horsepower, engine size, and other relevant car attributes.
 
-#Solution
-#Exploratory Data Analysis (EDA): Visualized the relationships between car features and their impact on price to identify significant predictors.
-#Modelling: Built a multiple linear regression model that accurately predicts car prices using the selected features.
-#Evaluation: The model was assessed using the R² score, ensuring it provides accurate pricing predictions.
-#Business Impact
+**Solution
+****Exploratory Data Analysis (EDA):** Visualized the relationships between car features and their impact on price to identify significant predictors.
+**#Modelling:** Built a multiple linear regression model that accurately predicts car prices using the selected features.
+**#Evaluation:** The model was assessed using the R² score, ensuring it provides accurate pricing predictions.
+**#Business Impact**
 This model supports car dealerships and sellers in setting competitive and accurate prices for used cars, enhancing customer satisfaction and optimizing inventory management.
 
-#Repository Structure
-#datasets/: Contains the datasets used for both projects.
-#notebooks/: Includes Jupyter notebooks with the full code for data analysis, modeling, and evaluation.
-#presentations/: PowerPoint presentations summarizing the objective, solution, and business impact of each project.
-#docs/: A Word document detailing the entire process, including solution architecture, methodology, challenges, and more.
-#graphs/: Contains all the visualizations generated during the EDA process.
-Getting Started
-Prerequisites
+**#Repository Structure
+****#datasets/: Contains the datasets used for both projects.
+****#notebooks/: Includes Jupyter notebooks with the full code for data analysis, modeling, and evaluation.
+****#presentations/: PowerPoint presentations summarizing the objective, solution, and business impact of each project.
+****#docs/: A Word document detailing the entire process, including solution architecture, methodology, challenges, and more.
+****#graphs/: Contains all the visualizations generated during the EDA process.
+****Getting Started
+**Prerequisites
 Python 3.x
 Jupyter Notebook
 Required libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
